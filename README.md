@@ -8,8 +8,8 @@
 <br>
 
 ## ⚙️ My Tech Stack
-#### *Languages I use:* Python, JavaScript, HTML, CSS, C#, SQL
-#### *Currently learning:* Java, React, Node.js
+#### **Languages I use:** Python, JavaScript, HTML, CSS, C#, SQL
+#### **Currently learning:** Java, React, Node.js
 
 <br>
 
