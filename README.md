@@ -1,16 +1,14 @@
-## Hi there 👋
+# Vilson Kühl🐋
 
-<!--
-**VirsoKuhl/VirsoKuhl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+## Hi! I’m Vilson Kühl, an Information Systems student passionate about technology and software development.
+## I enjoy building projects that challenge my logic and creativity.
+## ⚙️ Tech Stack
 
-Here are some ideas to get you started:
+### Languages I use: Python, JavaScript, HTML, CSS, C#, SQL
+### Currently learning: Java, React, Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Always exploring new tools and improving my coding skills 🚀
+
+#### 📫 How to reach me: (https://www.linkedin.com/in/vilson-k%C3%BChl-17b671265/)
+
