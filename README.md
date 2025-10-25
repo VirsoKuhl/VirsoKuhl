@@ -8,7 +8,7 @@
 <br>
 
 ## ⚙️ My Tech Stack
-#### **Languages I use:** Python, JavaScript, HTML, CSS, C#, SQL
+#### _Languages I use_ Python, JavaScript, HTML, CSS, C#, SQL
 #### **Currently learning:** Java, React, Node.js
 
 <br>
