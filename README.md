@@ -16,10 +16,6 @@
 ![C](https://img.shields.io/badge/C-ffffff?style=for-the-badge&logo=c&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/SQL-ffffff?style=for-the-badge&logo=sqlite&logoColor=003B57)
 #### **Currently learning:** Java, React, Node.js
-![React](https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-ffffff?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Java](https://img.shields.io/badge/Java-ffffff?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
