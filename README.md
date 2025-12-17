@@ -1,28 +1,78 @@
-# Vilson Kühl🐋
-
-## 💻 About Me
-#### Hi!👋 I’m Vilson Kühl, an Information Systems student passionate about technology and software development.
-#### I enjoy building projects that challenge my logic and creativity.
-
-
-<br>
-
-## ⚙️ My Tech Stack
-#### Languages I use: Python, JavaScript, HTML, CSS, C#, SQL
-![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML](https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=css3&logoColor=1572B6)
-![C](https://img.shields.io/badge/C-ffffff?style=for-the-badge&logo=c&logoColor=00599C)
-![SQL](https://img.shields.io/badge/SQL-ffffff?style=for-the-badge&logo=sqlite&logoColor=003B57)
-#### **Currently learning:** Java, React, Node.js
-![React](https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![Node.js](https://img.shields.io/badge/Node.js-ffffff?style=for-the-badge&logo=nodedotjs&logoColor=339933) 
-![Java](https://img.shields.io/badge/Java-ffffff?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+<div align="center">
+  
+![Header](./image8.gif)
+🎓 Information Systems Student  
+💻 Software Development • Problem Solving • Technology
 
 <br>
 
-### Always exploring new tools and improving my coding skills 🚀
+</div>
 
-#### 📫 How to reach me: (https://www.linkedin.com/in/vilson-k%C3%BChl-17b671265/)
+---
 
+[![Vilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=virsokuhl&show_icons=true)](https://github.com/virsokuhl)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virsokuhl&layout=compact)](https://github.com/virsokuhl)
+
+---
+
+### 👨‍💻 About Me
+Hi! 👋 I'm **Vilson Kühl**, an Information Systems student passionate about **technology**, **software development**, and **logical problem-solving**.
+
+I enjoy building projects that challenge my reasoning, creativity, and help me grow as a developer. I'm always curious about new tools, frameworks, and best practices in software engineering.
+
+---
+
+### 🚀 What I'm Currently Learning
+- ☕ **Java** for backend and object-oriented development  
+- ⚛️ **React** for modern front-end applications  
+- 🌐 **Node.js** for APIs and server-side development  
+
+---
+
+### 💡 Topics I Enjoy
+- Software Development  
+- Algorithms & Logic  
+- Web Development  
+- Databases & SQL  
+- Clean Code & Best Practices  
+
+---
+
+### 🛠️ Languages & Tools
+<div>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+</div>
+
+---
+
+### 📂 Projects & Practice
+- Web Development Projects (HTML, CSS, JavaScript)  
+- Backend & API Experiments with Node.js  
+- Object-Oriented Programming with Java & C#  
+- SQL Exercises and Database Modeling  
+
+---
+
+### 🌐 Connect With Me
+<a href="https://www.linkedin.com/in/vilson-k%C3%BChl-17b671265/" target="_blank">
+  <img height="32" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
+</a>
+
+---
+
+<div align="center">
+
+### 💫 Thanks for visiting my profile!
+Feel free to explore my repositories and connect with me 🚀
+
+</div>
